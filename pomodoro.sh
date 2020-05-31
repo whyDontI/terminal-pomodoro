@@ -1,2 +1,2 @@
 #!/bin/bash
-bash countdown.sh 25|figlet; bash stop_collossal.sh
+bash ~/.shellScripts/terminal-pomodoro/countdown.sh 25|figlet; bash ~/.shellScripts/terminal-pomodoro/stop_tiny.sh
